@@ -3,7 +3,7 @@ Created a basic E-commerce website using HTML, CSS, JavaScript.
 The home page contains 3 buttons, Men, Women and Kids.
 We can click on any button and it will display the content of the respective button.
 
-Each product card have details about the product including Name, Vendor, Price, Oroginal price, Discount.
+Each product card have details about the product including Name, Vendor, Price, Original price, Discount percentage.
 
 There is a Add to Cart Button.
 
